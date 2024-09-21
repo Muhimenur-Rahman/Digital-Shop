@@ -67,7 +67,7 @@
         margin: auto;
     }
     .s1{
-        background-image: url("./pexels-codioful-7130555.jpg");
+        background-image: url("./pics/pexels-codioful-7130555.jpg");
         align-items: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -87,7 +87,7 @@
         height: 150vh;
     }
     .s2{
-        background-image: url("./pexels-codioful-6985003.jpg");
+        background-image: url("./pics/pexels-codioful-6985003.jpg");
         align-items: center;
         background-repeat: no-repeat;
         object-fit: cover;
